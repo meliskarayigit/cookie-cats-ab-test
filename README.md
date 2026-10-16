@@ -5,7 +5,7 @@ Analysis of a mobile-game A/B test: does moving the first gate from level 30 to 
 **Result:** no. D7 retention is 0.82 percentage points lower with the later gate (4.3% relative, p = 0.0016), and D1 shows no significant difference. Recommendation: keep the gate at level 30.
 
 ![Dashboard](powerbi/powerbi.png)
-* **Interactive Report:** [Power BI (.pbix)](powerbi/cookie_cats_dashboard.pbix)
+* **Interactive Report:** [Power BI (.pbix)](powerbi/cookie%20cats.pbix)
 
 ## Business question
 
