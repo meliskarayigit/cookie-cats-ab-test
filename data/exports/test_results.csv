@@ -1,0 +1,3 @@
+retention_day,diff_pp,ci_low_pp,ci_high_pp,p_value,relative_change_pct,significant
+D1,-0.590517,-1.239256,0.058222,0.07441,-1.317566,No
+D7,-0.82013,-1.328165,-0.312095,0.001554,-4.311903,Yes
